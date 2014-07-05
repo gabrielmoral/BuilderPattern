@@ -86,7 +86,7 @@ _ReSharper*/
 
 # TeamCity is a build add-in
 _TeamCity*
-
+.DS_Store
 # DotCover is a Code Coverage Tool
 *.dotCover
 

@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/Paella.cs">
+    <Files>
+      <File FileName="BuilderPattern/Paella.cs" Line="6" Column="2" />
+      <File FileName="BuilderPattern/Ingredient.cs" Line="1" Column="1" />
+      <File FileName="BuilderPattern/Extra.cs" Line="9" Column="3" />
+      <File FileName="BuilderPattern/PaellaTest.cs" Line="11" Column="3" />
+      <File FileName="BuilderPattern/PaellaValencianaCreator.cs" Line="18" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="BuilderPattern" expanded="True">
+            <Node name="Paella.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
